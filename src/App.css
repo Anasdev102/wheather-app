@@ -1,0 +1,11 @@
+@font-face {
+  font-family: ARB;
+  src: url("/public/Fonts/Arabe/Cairo-Regular.ttf");
+  
+}
+
+
+
+body{
+  background: #0052d0 !important;
+}
