@@ -1,0 +1,19 @@
+
+{
+  "hello_world": "مرحبا بالعالم",
+  "date_time_label": "التاريخ والوقت",
+  "temperature_label": "درجة الحرارة",
+  "min": "الأدنى",
+  "max": "الأعلى",
+  "description_label": "الوصف",
+  "language_button": "English",
+  "casablanca" : "الدار البيضاء",
+    "clear sky": "سماء صافية",
+    "few clouds": "غيوم قليلة",
+    "scattered clouds": "غيوم متفرقة",
+    "rain": "مطر",
+    "thunderstorm": "عاصفة رعدية",
+    "snow": "ثلج",
+    "mist": "ضباب"
+  
+}
